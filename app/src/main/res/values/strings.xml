@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">One More Set</string>
+    <string name="title">Tap Start to begin workout.\nHold button to quit.</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="quit">QUIT</string>
+</resources>
